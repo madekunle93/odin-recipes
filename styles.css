@@ -1,0 +1,20 @@
+
+div {
+    color: white;
+    background-color: black;
+  }
+  
+  h1 {
+    color: red;
+    background-color: black;
+  }
+
+  a {
+    color: rgb(24, 184, 51);
+    background-color: rgb(88, 83, 83);
+  }
+
+  p {
+    color: rgb(21, 0, 255);
+    background-color: rgb(163, 159, 159);
+  }
